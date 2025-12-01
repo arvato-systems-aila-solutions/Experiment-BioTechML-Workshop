@@ -1,0 +1,121 @@
+Sample_ID,Age [years],Age_months,Sex,Height,Weight,BMI,Protein Concentration [mg/ml],Hydrophobicity [score],Hydrophobicity_alt,pH,Glucose [mmol/L],Albumin [g/L],Diagnosis,Diagnosis_code,Treatment,Center,Device_ID,Collection_Date,Sample_Quality,Notes,ConstantFlag
+S001,81.0,974.0,Male,1.5 m,78.6 kg,35.5,5.95 mg/ml,0.295,29.5,7.01,3.25,36.5 g/L,Healthy,H,3,Lab2,DEV021,2023-01-29,Poor,hemolyzed,Y
+S002,46.5,558.0,Female,166.2 cm,75.1 kg,27.3,4.57 mg/ml,0.41,41.0,pH 6.75,7.92,30.9 g/L,Tumor,T,B ,Lab1,DEV042,2024-05-10,OK,,Y
+S003,54.5,655.0,M,1.67 m,53.6 kg,19.4,4.67 mg/ml,25.7,25.7,7.07,5.64,,Healthy,H,C,Lab1,DEV006,2024-11-24,Poor,repeat test,Y
+S004,60.5,725.0,female,155.1 cm,202.7 lb,37.5,4.48 mg/ml,0.131,13.1,NA,5.14,39.6,Healthy,H,c,Lab4,DEV046,2023-11-28,Good,,Y
+S005,41.4,495.0,Other,174.2 cm,60.0 kg,20.0,5.41 mg/ml,19.6,19.6,pH 7.48,5.62,35.1,Healthy,H,A,Lab1,DEV034,2024-03-27,Good,,Y
+S006,54.0,649.0,Male,167.2 cm,78.9 kg,27.6,4.94 mg/ml,95.2,95.2,7.61,8.4,46.1 g/L,Tumor,T,1,Lab3,DEV045,2023-07-19,Good,hemolyzed,Y
+S007,54.0,649.0,Male,153.0 cm,66.7 kg,28.2,"6,37 mg/ml",24.7,24.7,6.76,6.56,42.8,Tumor,T,b,Lab1,DEV006,2024-01-18,Good,hemolyzed,Y
+S008,25.9,312.0,male,154.2 cm,60.5 kg,24.2,"4,92 mg/ml",19.0,19.0,7.04,2.5,38.0,Healthy,H,A,Lab5,DEV006,2024-01-30,Poor,repeat test,Y
+S009,70.3,841.0,female,,65.3 kg,22.4,13.60 mg/ml,0.746,74.6,7.41,6.53,39.9,Healthy,H,a,Lab2,DEV048,2023-08-28,Good,,Y
+S010,63.6,762.0,Female,1.95 m,73.3 kg,19.5,5.97 mg/ml,77.5,77.5,7.67,5.38,43.0 g/L,Healthy,H,C,Lab1,DEV031,2023-02-28,Good,,Y
+S011,44.0,528.0,F,175.5 cm,68.8 kg,21.9,6.00 mg/ml,33.3,33.3,6.23,3.11,42.4 g/L,Tumor,T,c,Lab4,DEV001,2023-06-02,Good,,Y
+S012,51 years,611.0,male,1.78 m,86.3 kg,25.1,6.02 mg/ml,50.8,50.8,7.71,6.01,46.5 g/L,Healthy,H,b,Lab2,DEV011,2023-10-31,Poor,,Y
+S013,62.1,747.0,M,167.6 cm,65.8 kg,23.0,5.61 mg/ml,78.3,78.3,7.13,4.44,39.9,Tumor,T,B,Lab3,DEV023,2024-05-09,Good,,Y
+S014,49.8,598.0,male,181.7 cm,,19.6,5.30 mg/ml,0.548,54.8,7.81,5.97,39.9 g/L,Tumor,T,B,Lab2,DEV005,2024-11-15,OK,repeat test,Y
+S015,50.1,601.0,Male,163.8 cm,142.7 lb,24.6,4.67 mg/ml,77.3,77.3,7.03,5.38,45.6 g/L,Healthy,H,c,Lab1,DEV031,2023-07-26,Good,lipemic,Y
+S016,30.7,367.0,Male,1.62 m,68.4 kg,25.2,2.88 mg/ml,0.34,34.0,6.87,4.32,43.9 g/L,Healthy,H,A ,Lab1,DEV034,2023-04-10,OK,,Y
+S017,63 years,756.0,Male,160.4 cm,180.0 lb,32.1,4.66 mg/ml,0.933,93.3,7.22,5.88,48.6,Healthy,H,B,Lab1,DEV047,2023-10-28,OK,,Y
+S018,56.0,671.0,Male,157.8 cm,53.1 kg,23.1,6.78 mg/ml,48.1,48.1,pH 7.67,4.38,40.5,Tumor,T,A,Lab1,DEV008,2024-06-07,OK,,Y
+S019,58 years,704.0,female,1.63 m,57.8 kg,22.1,4.21 mg/ml,45.2,45.2,pH 7.21,5.4,41.4,Tumor,T,A,Lab1,DEV026,2023-07-10,Good,,Y
+S020,29.6,356.0,Male,161.5 cm,144.0 lb,25.6,4.11 mg/ml,0.243,24.3,6.26,5.29,35.1,Tumor,T,2,Lab1,DEV050,2023-07-05,Good,,Y
+S021,80.4,962.0,M,179.2 cm,67.8 kg,22.0,5.92 mg/ml,0.056,5.6,7.47,4.88,51.0,Healthy,H,A,Lab4,DEV033,2023-07-21,OK,,Y
+S022,56.5,679.0,Male,167.8 cm,148.2 lb,23.8,4.89 mg/ml,11.3,11.3,6.56,7.41,33.6,Healthy,H,a,Lab1,DEV022,2023-10-08,Good,,Y
+S023,47.8,573.0,Female,166.1 cm,78.7 kg,28.7,4.27 mg/ml,0.425,42.5,6.81,5.23,43.2,Healthy,H,A,Lab2,DEV018,2023-07-16,Good,,Y
+S024,86.5,1036.0,Female,161.5 cm,,27.7,6.51 mg/ml,0.593,59.3,pH 6.74,3.8,36.6,Healthy,H,B ,Lab1,DEV033,2024-02-22,OK,hemolyzed,Y
+S025,53.3,639.0,Male,163.4 cm,68.7 kg,26.4,5.49 mg/ml,0.597,59.7,pH 6.47,4.96,44.0 g/L,Healthy,H,a,Lab1,DEV003,2024-10-16,OK,lipemic,Y
+S026,30.8,369.0,Female,NA,89.8 kg,31.4,"5,63 mg/ml",0.721,72.1,6.7,4.18,46.5 g/L,Healthy,H,c,Lab3,DEV012,2023-05-17,OK,lipemic,Y
+S027,47.5,571.0,Female,1.69 m,61.7 kg,21.0,4.18 mg/ml,22.1,22.1,6.81,5.13,32.2,Healthy,H,2,Lab4,DEV035,2023-02-07,Good,,Y
+S028,18.0,217.0,Female,172.0 cm,83.8 kg,29.4,5.35 mg/ml,30.1,30.1,6.96,5.49,40.7 g/L,Tumor,T,B,Lab2,DEV016,2024-06-16,OK,repeat test,Y
+S029,70.8,850.0,F,,84.7 kg,35.5,5.21 mg/ml,0.673,67.3,7.18,5.9,31.5,Tumor,T,C ,Lab1,DEV050,2023-11-25,Poor,lipemic,Y
+S030,47 years,566.0,Male,1.94 m,73.6 kg,19.5,5.65 mg/ml,53.3,53.3,7.07,6.23,50.4,Tumor,T,A,Lab5,DEV032,2023-04-21,Good,lipemic,Y
+S031,42.1,503.0,Male,154.0 cm,59.2 kg,24.1,6.06 mg/ml,0.558,55.8,6.61,5.35,39.3,Tumor,T,A,Lab1,DEV022,2023-05-18,Good,,Y
+S032,71.2,852.0,Female,1.59 m,57.4 kg,21.6,"6,04 mg/ml",20.0,20.0,7.13,,32.5 g/L,Tumor,T,3,Lab2,DEV018,2023-04-16,Good,,Y
+S033,27.6,332.0,Female,168.3 cm,76.7 kg,27.6,4.99 mg/ml,29.8,29.8,NA,6.37,,Healthy,H,C,Lab2,DEV017,2024-12-16,OK,lipemic,Y
+S034,62.6,752.0,Male,1.68 m,86.8 kg,31.5,5.56 mg/ml,0.777,77.7,pH 7.58,4.82,49.9 g/L,Tumor,T,a,Lab4,DEV048,2024-06-19,Good,,Y
+S035,21 years,255.0,female,154.1 cm,66.9 kg,27.2,3.54 mg/ml,0.739,73.9,NA,5.03,50.9,Healthy,H,b,Lab4,DEV038,2023-07-03,Good,,Y
+S036,43.4,518.0,male,159.5 cm,162.6 lb,28.9,5.51 mg/ml,48.9,48.9,pH 7.45,5.17,49.6,Healthy,H,A ,Lab3,DEV021,2023-10-14,Poor,,Y
+S037,34.7,417.0,Male,184.0 cm,101.7 kg,30.3,5.55 mg/ml,0.488,48.8,7.56,6.6,37.3,Healthy,H,A,Lab2,DEV011,2023-08-21,Good,hemolyzed,Y
+S038,77.4,928.0,Female,1.67 m,68.8 kg,24.6,4.37 mg/ml,15.0,15.0,7.74,7.6,41.1,Tumor,T,A,Lab4,DEV049,2023-01-19,Good,lipemic,Y
+S039,82.3,986.0,Male,175.1 cm,60.0 kg,19.9,3.95 mg/ml,0.85,85.0,pH 7.88,4.22,51.8,Healthy,H,1,Lab4,DEV011,2023-02-07,Good,,Y
+S040,48.7,585.0,Female,166.9 cm,191.7 lb,32.1,"4,74 mg/ml",0.535,53.5,7.07,5.19,37.6 g/L,Healthy,H,A,Lab4,DEV007,2023-09-04,Good,repeat test,Y
+S041,67 years,809.0,Male,1.87 m,68.8 kg,18.7,3.47 mg/ml,0.59,59.0,7.09,3.31,40.0 g/L,Healthy,H,C,Lab3,DEV002,2023-11-25,Good,repeat test,Y
+S042,51.1,613.0,Female,,66.7 kg,27.5,14.39 mg/ml,0.182,18.2,7.79,4.34,36.3,Tumor,T,A ,Lab1,DEV047,2023-12-28,Good,,Y
+S043,63.1,756.0,female,153.0 cm,65.9 kg,27.4,5.12 mg/ml,73.1,73.1,7.82,5.71,35.0,Tumor,T,A,Lab1,DEV050,2024-06-27,OK,,Y
+S044,42.0,504.0,Female,176.3 cm,100.3 kg,32.1,4.60 mg/ml,0.492,49.2,7.82,5.86,49.2,Healthy,H,A,Lab2,DEV020,2023-08-19,OK,,Y
+S045,26.7,322.0,M,172.6 cm,104.9 lb,16.1,4.51 mg/ml,59.2,59.2,6.26,6.25,45.8,Healthy,H,A ,Lab2,DEV025,2024-10-10,Poor,,Y
+S046,25.2,305.0,M,162.5 cm,54.8 kg,19.4,4.97 mg/ml,0.41,41.0,7.11,NA,44.7 g/L,Healthy,H,A,Lab4,DEV023,2024-10-18,Poor,,Y
+S047,60.1,720.0,F,185.5 cm,47.1 kg,12.8,13.49 mg/ml,0.629,62.9,6.2,3.48,45.5,Healthy,H,A,Lab1,DEV024,2023-02-06,Good,,Y
+S048,90.0,1077.0,Male,169.6 cm,75.6 kg,26.5,"5,91 mg/ml",0.322,32.2,7.49,5.58,48.1,Healthy,H,B,Lab3,DEV046,2023-02-10,Good,,Y
+S049,58 years,699.0,F,170.6 cm,127.7 lb,20.4,4.63 mg/ml,0.351,35.1,pH 7.22,4.89,51.1,Healthy,H,A,Lab2,DEV006,2024-08-31,OK,repeat test,Y
+S050,46 years,545.0,female,171.5 cm,NA,18.0,4.43 mg/ml,15.6,15.6,7.22,5.61,42.0,Healthy,H,A ,Lab3,DEV039,2023-06-01,Good,,Y
+S051,84.6,1017.0,M,166.2 cm,85.6 kg,29.9,4.37 mg/ml,0.505,50.5,7.14,6.07,40.0,Tumor,T,A,Lab1,DEV016,2024-08-14,Poor,,Y
+S052,57.8,692.0,Female,157.7 cm,NA,24.7,5.45 mg/ml,0.412,41.2,pH 7.72,6.49,35.9 g/L,Tumor,T,b,Lab2,DEV032,2024-04-10,Good,,Y
+S053,55.6,668.0,M,179.7 cm,47.1 kg,14.7,"7,39 mg/ml",0.406,40.6,7.08,5.89,48.5 g/L,Healthy,H,A,Lab1,DEV020,2024-12-28,Good,,Y
+S054,58 years,694.0,F,NA,79.2 kg,31.3,6.35 mg/ml,0.012,1.2,7.61,6.11,38.9 g/L,Healthy,H,A,Lab1,DEV004,2023-11-14,Good,,Y
+S055,51.9,622.0,M,1.64 m,104.8 kg,38.9,6.54 mg/ml,0.73,73.0,7.42,4.55,33.0,Healthy,H,A ,Lab4,DEV013,2024-08-22,Good,,Y
+S056,49.0,589.0,Male,180.6 cm,113.7 lb,15.7,6.28 mg/ml,0.432,43.2,7.34,6.29,40.4,Healthy,H,A,Lab1,DEV048,2023-11-28,Good,,Y
+S057,31.0,375.0,female,170.5 cm,73.6 kg,25.1,3.03 mg/ml,25.0,25.0,7.39,4.5,42.1,Healthy,H,a,Lab4,DEV013,2023-10-30,Good,,Y
+S058,62.0,743.0,female,161.4 cm,25.1 kg,9.2,4.58 mg/ml,0.234,23.4,7.24,5.2,47.0,Healthy,H,A,Lab2,DEV005,2023-12-23,Poor,,Y
+S059,52.5,630.0,Female,,67.7 kg,26.9,4.32 mg/ml,0.082,8.2,6.76,7.33,48.0,Healthy,H,B,Lab1,DEV044,2023-04-22,OK,,Y
+S060,73.1,873.0,M,191.9 cm,175.4 lb,22.3,6.17 mg/ml,56.5,56.5,pH 7.49,5.53,37.6,Healthy,H,A,Lab3,DEV049,2024-03-02,OK,,Y
+S061,48.1,575.0,Male,1.76 m,82.5 kg,27.0,"6,66 mg/ml",51.0,51.0,pH 7.49,4.61,37.2,Tumor,T,C,Lab1,DEV044,2023-10-11,Poor,repeat test,Y
+S062,23.5,280.0,Other,NA,66.8 kg,24.2,4.07 mg/ml,84.9,84.9,7.14,6.89,40.0,Healthy,H,1,Lab4,DEV021,2024-05-01,OK,,Y
+S063,52.4,628.0,male,187.8 cm,83.4 kg,24.8,"4,84 mg/ml",67.0,67.0,7.49,6.3,34.7 g/L,Healthy,H,A,Lab1,DEV018,2024-02-27,Poor,hemolyzed,Y
+S064,81.2,975.0,M,156.9 cm,75.7 kg,31.0,5.41 mg/ml,0.265,26.5,7.56,6.47,41.3,Healthy,H,B,Lab3,DEV008,2024-02-12,OK,repeat test,Y
+S065,47.9,576.0,F,1.75 m,51.2 kg,15.4,4.26 mg/ml,0.251,25.1,pH 6.69,5.34,44.8 g/L,Healthy,H,B,Lab1,DEV026,2024-09-28,Good,,Y
+S066,39.8,474.0,Male,1.49 m,65.8 kg,31.3,4.11 mg/ml,0.154,15.4,7.14,5.51,42.3,Healthy,H,C,Lab1,DEV018,2023-12-28,Good,,Y
+S067,34.9,420.0,Female,172.1 cm,118.4 lb,18.4,"4,05 mg/ml",0.204,20.4,7.02,4.82,32.3,Healthy,H,A,Lab5,DEV044,2023-11-26,Good,,Y
+S068,37.2,444.0,Male,,74.4 kg,26.4,"5,77 mg/ml",0.514,51.4,6.84,4.26,34.8,Healthy,H,B,Lab2,DEV049,2023-11-04,Good,,Y
+S069,49.2,594.0,M,157.0 cm,140.9 lb,26.4,"3,80 mg/ml",0.375,37.5,pH 7.33,7.11,49.7 g/L,Tumor,T,C,Lab3,DEV018,2024-08-18,OK,,Y
+S070,35.1,422.0,Male,173.0 cm,90.3 kg,29.4,6.05 mg/ml,0.254,25.4,6.86,4.66,35.9 g/L,Healthy,H,A,Lab3,DEV019,2024-09-14,OK,lipemic,Y
+S071,78 years,936.0,male,180.5 cm,72.9 kg,22.5,4.90 mg/ml,49.7,49.7,7.03,4.46,46.4,Tumor,T,a,Lab1,DEV042,2023-01-11,OK,,Y
+S072,49.5,593.0,Female,1.83 m,70.2 kg,21.1,"5,63 mg/ml",73.5,73.5,pH 7.30,4.57,45.8,Healthy,H,B,Lab4,DEV043,2024-07-03,Good,repeat test,Y
+S073,55.7,669.0,Female,176.5 cm,81.9 kg,26.9,6.50 mg/ml,80.1,80.1,7.34,7.33,40.1 g/L,Healthy,H,A,Lab4,DEV027,2024-12-02,Good,,Y
+S074,77.0,924.0,Male,1.83 m,80.2 kg,23.7,4.06 mg/ml,69.4,69.4,7.33,6.15,36.0 g/L,Healthy,H,C,Lab1,DEV043,2024-04-08,OK,repeat test,Y
+S075,78.1,935.0,F,,71.9 kg,19.3,3.90 mg/ml,0.297,29.7,8.09,4.66,43.3,Healthy,H,B,Lab2,DEV023,2024-05-27,OK,,Y
+S076,50.6,609.0,male,1.63 m,39.7 kg,14.4,5.27 mg/ml,0.454,45.4,7.0,5.05,,Healthy,H,C ,Lab1,DEV013,2024-03-07,Good,,Y
+S077,59.3,712.0,M,1.71 m,80.5 kg,27.6,3.67 mg/ml,0.772,77.2,7.3,5.71,40.9,Healthy,H,1,Lab3,DEV005,2023-12-18,Good,,Y
+S078,65.8,790.0,Male,178.3 cm,NA,28.2,4.00 mg/ml,0.593,59.3,6.72,6.15,42.6 g/L,Healthy,H,B,Lab1,DEV018,2024-01-11,Good,lipemic,Y
+S079,51 years,611.0,F,170.4 cm,73.8 kg,25.3,4.68 mg/ml,0.646,64.6,7.39,3.17,37.7,Healthy,H,a,Lab2,DEV050,2024-12-07,Good,,Y
+S080,25.6,308.0,Male,161.6 cm,207.2 lb,35.1,"4,97 mg/ml",0.47,47.0,7.66,6.18,40.6 g/L,Healthy,H,A,Lab3,DEV002,2024-10-08,Poor,,Y
+S081,64.5,772.0,male,,76.0 kg,24.9,3.43 mg/ml,24.7,24.7,7.69,4.84,40.1,Healthy,H,B ,Lab3,DEV008,2023-07-12,Good,,Y
+S082,68.3,827.0,M,,67.3 kg,21.5,"4,38 mg/ml",0.525,52.5,NA,4.28,34.6,Healthy,H,c,Lab1,DEV027,2024-08-06,Good,repeat test,Y
+S083,61 years,726.0,Female,167.1 cm,49.6 kg,17.9,5.44 mg/ml,0.484,48.4,7.09,4.63,40.9,Healthy,H,a,Lab4,DEV035,2023-01-03,OK,,Y
+S084,39.2,470.0,Female,171.5 cm,87.6 kg,30.1,6.28 mg/ml,0.479,47.9,pH 7.70,6.05,,Healthy,H,A,Lab1,DEV001,2023-04-11,Good,,Y
+S085,50.9,612.0,M,153.6 cm,196.5 lb,38.4,2.64 mg/ml,0.889,88.9,pH 7.16,7.21,31.1,Healthy,H,a,Lab4,DEV043,2024-07-20,Good,,Y
+S086,44.5,537.0,Male,178.1 cm,79.9 kg,24.7,6.23 mg/ml,0.663,66.3,7.58,5.28,40.0,Healthy,H,A ,Lab2,DEV019,2023-05-28,Good,,Y
+S087,49 years,589.0,male,NA,67.2 kg,23.7,5.77 mg/ml,34.8,34.8,6.81,6.52,40.3 g/L,Tumor,T,2,Lab1,DEV050,2024-06-05,Good,,Y
+S088,74.8,894.0,Female,NA,NA,19.6,3.61 mg/ml,0.428,42.8,7.75,4.8,38.4 g/L,Tumor,T,A,Lab3,DEV027,2024-04-23,Good,,Y
+S089,78.5,939.0,male,184.8 cm,,17.1,3.19 mg/ml,0.228,22.8,7.61,5.69,29.6,Healthy,H,a,Lab4,DEV027,2024-08-15,Good,,Y
+S090,64.7,774.0,male,185.1 cm,77.6 kg,22.3,5.26 mg/ml,0.346,34.6,7.39,6.09,46.7,Healthy,H,B,Lab3,DEV041,2023-10-01,Good,,Y
+S091,63 years,752.0,Male,1.78 m,58.8 kg,17.8,4.34 mg/ml,0.047,4.7,,3.92,46.1,Tumor,T,C,Lab5,DEV001,2023-07-16,Good,,Y
+S092,64.8,777.0,M,1.8 m,,20.4,15.04 mg/ml,0.651,65.1,pH 7.14,4.48,45.9 g/L,Healthy,H,A,Lab1,DEV001,2024-08-19,Good,hemolyzed,Y
+S093,53.8,648.0,Female,170.6 cm,85.2 kg,29.4,5.74 mg/ml,0.66,66.0,7.26,6.05,43.9,Healthy,H,A,Lab1,DEV023,2023-02-15,Good,,Y
+S094,52.8,636.0,F,149.9 cm,82.9 kg,36.6,5.63 mg/ml,0.452,45.2,7.31,2.99,34.5,Healthy,H,B,Lab1,DEV026,2024-04-11,Poor,,Y
+S095,43.2,517.0,Female,1.79 m,74.3 kg,24.2,19.36 mg/ml,0.64,64.0,7.16,4.65,42.7,Healthy,H,A ,Lab2,DEV012,2023-03-11,OK,,Y
+S096,53 years,638.0,Female,167.3 cm,41.8 kg,14.7,5.06 mg/ml,34.2,34.2,7.11,5.82,36.4 g/L,Healthy,H,A,Lab2,DEV001,2023-11-13,Poor,,Y
+S097,90.0,1082.0,male,1.76 m,67.5 kg,21.5,"12,69 mg/ml",62.6,62.6,7.28,3.07,55.1,Healthy,H,2,Lab2,DEV043,2023-03-31,Poor,,Y
+S098,67.9,818.0,Male,185.2 cm,70.3 kg,21.3,3.54 mg/ml,55.9,55.9,7.76,,38.9,Healthy,H,B,Lab2,DEV016,2023-10-25,Good,,Y
+S099,48.5,582.0,Female,171.9 cm,112.3 lb,16.6,5.21 mg/ml,0.34,34.0,6.4,5.7,46.0 g/L,Tumor,T,A,Lab1,DEV033,2024-02-17,Good,,Y
+S100,46 years,556.0,Female,167.3 cm,77.2 kg,27.0,3.35 mg/ml,0.692,69.2,6.65,6.17,32.7 g/L,Healthy,H,B ,Lab1,DEV039,2024-07-21,Poor,,Y
+S101,40.2,483.0,Male,156.3 cm,57.4 kg,23.2,5.51 mg/ml,36.6,36.6,6.58,3.57,34.9,Healthy,H,B ,Lab2,DEV022,2023-02-05,Good,,Y
+S102,60.0,723.0,F,161.6 cm,63.8 kg,25.8,4.49 mg/ml,0.611,61.1,pH 6.93,6.81,38.8,Tumor,T,C ,Lab1,DEV022,2023-05-13,OK,,Y
+S103,60.3,722.0,M,1.73 m,60.3 kg,20.2,"4,40 mg/ml",0.52,52.0,6.5,5.47,46.2,Healthy,H,A ,Lab2,DEV027,2024-03-29,OK,,Y
+S104,30.9,375.0,male,1.86 m,82.3 kg,23.7,5.89 mg/ml,0.585,58.5,7.42,6.54,45.3 g/L,Healthy,H,C,Lab4,DEV023,2023-08-10,Good,lipemic,Y
+S105,61.8,745.0,M,1.57 m,47.1 kg,18.9,9.06 mg/ml,0.377,37.7,7.24,6.5,43.7,Healthy,H,A,Lab1,DEV017,2024-05-02,Good,,Y
+S106,44.9,538.0,Female,169.3 cm,48.2 kg,15.9,4.23 mg/ml,0.26,26.0,7.1,5.51,,Healthy,H,B ,Lab3,DEV024,2024-12-24,Good,repeat test,Y
+S107,76.8,919.0,Other,169.9 cm,39.3 kg,12.4,4.87 mg/ml,79.5,79.5,6.93,5.88,48.8,Tumor,T,b,Lab3,DEV032,2023-09-10,Good,,Y
+S108,56.5,677.0,Male,169.8 cm,80.9 kg,28.3,3.16 mg/ml,75.9,75.9,pH 7.26,3.01,36.4 g/L,Healthy,H,C,Lab1,DEV011,2024-11-25,Good,,Y
+S109,81.5,977.0,Male,180.3 cm,96.2 kg,30.2,3.82 mg/ml,0.735,73.5,7.27,3.48,51.7,Healthy,H,2,Lab2,DEV005,2024-01-30,Good,,Y
+S110,46.7,561.0,F,167.7 cm,104.5 kg,38.4,4.71 mg/ml,0.413,41.3,pH 7.33,4.47,53.2,Tumor,T,A,Lab5,DEV015,2024-12-28,Good,,Y
+S111,49.4,589.0,Female,179.8 cm,60.4 kg,19.0,3.42 mg/ml,0.344,34.4,6.91,4.68,47.0,Healthy,H,B,Lab1,DEV036,2024-11-09,OK,hemolyzed,Y
+S112,58.8,710.0,Female,149.5 cm,67.6 kg,28.5,3.43 mg/ml,0.268,26.8,7.46,6.42,47.9 g/L,Tumor,T,A,Lab3,DEV019,2023-11-01,Good,,Y
+S113,,,male,166.2 cm,NA,31.9,"3,89 mg/ml",0.88,88.0,6.61,2.96,34.4 g/L,Healthy,H,C,Lab4,DEV006,2024-02-13,OK,,Y
+S114,63.1,755.0,Female,186.6 cm,72.7 kg,21.0,3.26 mg/ml,0.585,58.5,7.7,4.72,57.5,Healthy,H,A,Lab2,DEV041,2024-10-05,Good,hemolyzed,Y
+S115,34.3,407.0,male,167.5 cm,80.7 kg,28.8,5.47 mg/ml,0.848,84.8,6.2,3.51,43.3 g/L,Healthy,H,A,Lab5,DEV036,2024-11-10,Good,,Y
+S116,56.9,683.0,M,182.5 cm,,29.4,3.71 mg/ml,31.0,31.0,6.96,3.23,48.0,Healthy,H,b,Lab3,DEV008,2024-04-18,Good,,Y
+S117,54 years,653.0,Female,159.3 cm,81.2 kg,33.0,5.64 mg/ml,86.0,86.0,6.72,6.87,36.9,Healthy,H,A,Lab2,DEV033,2023-07-06,Good,,Y
+S118,47.1,568.0,Male,1.77 m,77.2 kg,25.3,"5,81 mg/ml",29.7,29.7,7.52,5.22,41.6 g/L,Healthy,H,B,Lab3,DEV016,2024-11-24,OK,,Y
+S119,43.6,525.0,Male,183.8 cm,33.7 kg,11.1,3.49 mg/ml,56.0,56.0,6.61,7.06,34.9 g/L,Healthy,H,B,Lab2,DEV016,2023-11-07,Good,,Y
+S120,82.0,983.0,female,178.3 cm,80.1 kg,24.8,4.84 mg/ml,0.149,14.9,7.93,6.91,40.6,Tumor,T,B,Lab3,DEV043,2023-07-03,Good,,Y
