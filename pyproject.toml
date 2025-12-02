@@ -14,6 +14,7 @@ dependencies = [
   "matplotlib>=3.9",          # Formatter, used by VS Code-Plugin
   "black>=24.8",
   "seaborn>=0.13.2",
+  "medmnist>=3.0.2",
 ]
 
 [build-system]
